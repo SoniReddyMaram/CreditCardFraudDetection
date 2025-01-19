@@ -67,11 +67,7 @@ The dataset can be downloaded from [Kaggle's Credit Card Fraud Detection dataset
    source venv/bin/activate # On Windows: venv\Scripts\activate
    ```
 
-4. Install the required dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
+4. Install the required dependencies.
 
 5. Download the dataset and place it in the appropriate folder (e.g., `data/`).
 
